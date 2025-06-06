@@ -34,15 +34,16 @@ Below are key screens from the Petopia mobile app:
 ### 🔐 Login Page
 > A simple login screen for user authentication.
 
-![Login Page](![login](https://github.com/user-attachments/assets/0efd52fe-21d1-42a3-b0f0-21e012070cea)
+(![login](https://github.com/user-attachments/assets/13f98ad4-a58c-4dc7-99b2-9aa88f2765bf)
 )
+
 
 ---
 
 ### 🏠 Home Page
 > Dashboard showing navigation to different features like Pet Profiles, Appointments, Adoption Listings, etc.
 
-![Home Page](![WhatsApp Image 2025-04-15 at 12 32 05_5bedbb61](https://github.com/user-attachments/assets/36735512-aff7-4ff2-8376-789d8adf5973)
+(![WhatsApp Image 2025-04-15 at 12 32 05_5bedbb61](https://github.com/user-attachments/assets/36735512-aff7-4ff2-8376-789d8adf5973)
 )
 
 ---
@@ -50,7 +51,7 @@ Below are key screens from the Petopia mobile app:
 ### 🐾 Pet Profile Page
 > View, edit, and update pet details including age, breed, vaccination records, and uploaded photos.
 
-![Pet Profile Page](![WhatsApp Image 2025-06-07 at 01 12 04_a25da739](https://github.com/user-attachments/assets/b2e43fc1-67ce-4bc6-a592-89ec66f2e60e)
+(![WhatsApp Image 2025-06-07 at 01 12 04_a25da739](https://github.com/user-attachments/assets/b2e43fc1-67ce-4bc6-a592-89ec66f2e60e)
 )
 
 ---
